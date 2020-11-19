@@ -1,14 +1,14 @@
 // function to generate markdown for README
 function generateMarkdown(data1, data2) {
   return `# ${data1.Title}
-\n* [Installation][#Installation]
+
   ${data1.Description}
 
-  ## Table Of Contents
-  [![TOC](https://img.shields.io/badge/TOC-Table%20of%20Contents-green)]()
+  ## Table Of Contents [![TOC](https://img.shields.io/badge/TOC-Table%20of%20Contents-green)]()
+
   ${data1.TableofContents}
 
-  ## Installation
+  ## Installation [![Inst](https://img.shields.io/badge/-Installation-green)]
   ${data1.Installation}
 
   ## Usage
@@ -35,7 +35,7 @@ function generateMarkdown(data1, data2) {
   ## Email
   ${data2.email}
 
-  ## Github Profie
+  ## Github Profile
   ${data2.profile}
 
 
