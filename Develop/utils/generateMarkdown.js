@@ -8,13 +8,13 @@ function generateMarkdown(data1, data2) {
 
   ${data1.TableofContents}
 
-  ## Installation [![Inst](https://img.shields.io/badge/-Installation-green)]
+  ## Installation [![Inst](https://img.shields.io/badge/-Installation-green)]()
   ${data1.Installation}
 
-  ## Usage
+  ## Usage [![Usage](https://img.shields.io/badge/-Usage-brightgreen)]()
   ${data1.Usage}
 
-  ## License
+  ## License [![LIC](https://img.shields.io/badge/License-LIC-yellowgreen)]()
   ${data1.License}
 
   ## Contributions
@@ -26,7 +26,8 @@ function generateMarkdown(data1, data2) {
   ## Questions
   ${data1.Questions}
 
-  ## Badge Details
+  ## Badge Details Generated from shields.io
+  [![Badge](https://img.shields.io/badge/SHIELDS%20IO-BADGE%20GENERATOR-red)]()
   ${data1.Badge}
 
   ## Username
