@@ -1,7 +1,7 @@
 // function to generate markdown for README
 function generateMarkdown(data1, data2) {
   return `# ${data1.Title}
-
+  ## Description
   ${data1.Description}
 
   ## Table Of Contents [![TOC](https://img.shields.io/badge/TOC-Table%20of%20Contents-green)]()
