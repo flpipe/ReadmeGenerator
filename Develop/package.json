@@ -1,12 +1,12 @@
 {
   "name": "static-site",
   "version": "1.0.0",
-  "description": "",
+  "description": "Good ReadMe Generator",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Reva",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.19.2",

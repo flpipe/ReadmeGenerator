@@ -1,24 +1,29 @@
-# Test ReadMe Recording
+# readme
 
-  Test ReadMe Recording
+* [Installation][#Installation]
+  readme
 
-  List of contents to go inside my readme
+  ## Table Of Contents
+  [![TOC](https://img.shields.io/badge/TOC-Table%20of%20Contents-green)]()
+  toc
 
-  Installion steps
+  ## Installation
+  npm i and then node index.js
 
-  Uage Instructions
+  ## Usage
+  usage instructions
 
-  Not yet received
+  license 1
 
-  Only Reva
+  reva reava reava
 
-  Basic Unit Tests
+  no test now other then dev
 
-  Work in progress
+  no question
 
-  No badge
+  used shield.io for badges
 
-  Revathy Venkataraman
+  Reva
 
   null
 
